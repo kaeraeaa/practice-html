@@ -1,0 +1,16 @@
+.hero-button {
+ background-color: blueviolet;
+}
+.hero-button:hover{
+    background-color: brown;
+    border-radius: 50%;
+}
+.hero-button:focus{
+    background-color: blue;
+}
+.link {
+    color: black;
+}
+.link:visited {
+    color: green;
+}
